@@ -1,16 +1,31 @@
-## Hi there 👋
+👾 Hello, World! I'm a Game Developer
 
-<!--
-**fabriziozitfs-del/fabriziozitfs-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Beginner Game Developer passionate about creating interactive experiences and exploring new technologies.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Beginner in Unity3D Game Development.
+
+🥽 Exploring Augmented Reality (AR) and Virtual Reality (VR).
+
+📚 Student at AvançaTech.
+
+💡 Always learning, experimenting, and developing new projects.
+
+🛠️ Technologies & Interests
+
+Unity3D
+
+C#
+
+Augmented Reality (AR)
+
+Virtual Reality (VR)
+
+Game Design
+
+📌 Goals
+
+Develop creative games, explore immersive technologies, and continuously improve my programming skills.
+
+"Every great game starts with a single line of code."
